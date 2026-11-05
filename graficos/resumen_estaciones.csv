@@ -1,0 +1,38 @@
+ciudad,estacion,contaminante,dias,promedio,p95,maximo,% > norma CO,% > OMS,supera_norma_anual
+Bogotá,Carvajal,PM10,2097,70.1,113.1,172.4,38.4,85.1,True
+Bogotá,Kennedy,PM10,2150,52.3,87.2,151.9,11.7,61.3,True
+Cali,Compartir,PM10,1646,49.8,72.1,109.5,2.8,62.4,False
+Cali,ERA-Obrero,PM10,1401,49.3,71.0,146.6,2.7,62.0,False
+Cali,La Ermita,PM10,1971,46.3,64.7,112.2,1.5,54.7,False
+Bogotá,Suba,PM10,2061,45.6,71.8,105.5,3.4,49.4,False
+Bogotá,Puente Aranda,PM10,2162,44.6,80.8,126.5,7.7,45.1,False
+Bogotá,Tunal,PM10,2145,40.5,77.4,125.5,5.8,34.8,False
+Bogotá,Movil 7ma,PM10,365,39.8,70.6,124.5,3.3,36.7,False
+Cali,Cañaveralejo,PM10,1615,36.7,51.9,90.1,0.2,17.6,False
+Cali,La Flora,PM10,1601,35.7,57.0,75.0,0.0,21.9,False
+Bogotá,Fontibón,PM10,713,35.4,62.7,108.7,1.3,23.8,False
+Cali,Transitoria,PM10,641,34.0,53.7,74.4,0.0,18.6,False
+Cali,Pance,PM10,2020,33.1,54.0,102.0,0.2,17.4,False
+Bogotá,Las Ferias,PM10,2121,32.6,64.9,103.8,1.9,23.2,False
+Bogotá,Usaquén,PM10,1738,30.2,66.2,115.9,2.3,16.3,False
+Bogotá,MinAmbiente,PM10,2050,29.4,56.4,95.8,0.7,14.5,False
+Bogotá,Centro de alto rendimiento,PM10,2111,28.3,57.7,90.5,1.1,15.6,False
+Bogotá,Guaymaral,PM10,2144,28.2,50.3,93.1,0.1,9.0,False
+Bogotá,San Cristobal,PM10,2149,25.8,52.2,108.4,0.8,9.7,False
+Bogotá,Carvajal,PM2.5,1787,30.9,47.8,78.5,23.2,96.7,True
+Bogotá,Kennedy,PM2.5,2150,25.8,43.1,70.2,13.4,88.8,True
+Bogotá,Movil 7ma,PM2.5,366,21.6,43.8,66.0,11.2,63.1,False
+Cali,Base Aérea,PM2.5,706,21.1,32.3,55.0,2.7,82.3,False
+Cali,Univalle,PM2.5,1706,20.8,33.0,60.9,1.3,77.4,False
+Bogotá,Tunal,PM2.5,2172,19.3,41.1,61.4,8.1,57.9,False
+Bogotá,Fontibón,PM2.5,713,19.0,35.0,60.9,3.4,63.3,False
+Bogotá,Puente Aranda,PM2.5,1333,18.3,33.6,60.8,2.8,59.3,False
+Cali,Transitoria,PM2.5,301,17.9,28.8,48.6,1.0,60.8,False
+Bogotá,Suba,PM2.5,2052,16.5,32.6,56.5,2.3,48.2,False
+Bogotá,Centro de alto rendimiento,PM2.5,1812,15.7,34.3,59.0,3.8,44.0,False
+Bogotá,Las Ferias,PM2.5,2097,15.6,33.1,59.0,2.6,44.6,False
+Bogotá,MinAmbiente,PM2.5,2061,14.8,33.0,68.7,2.9,38.3,False
+Bogotá,Guaymaral,PM2.5,2105,14.2,29.4,53.4,1.0,37.7,False
+Bogotá,Usaquén,PM2.5,2119,14.1,31.8,58.7,2.4,33.8,False
+Cali,Compartir,PM2.5,1604,14.1,23.0,103.1,0.3,38.5,False
+Bogotá,San Cristobal,PM2.5,1730,11.2,26.5,46.3,0.5,24.3,False
